@@ -4,6 +4,7 @@ La primera interfaz de práctica del tercer semestre en la Universidad de Guayaq
 
 ## Imagen de ejemplo del Proyecto
 ![Captura de pantalla 2024-05-10 103529](https://github.com/Ivanmurillojr30/DEBER-_INTERFAZ/assets/168851753/3de694be-3c0d-43bd-8267-e4ab2188b53a)
+![image](https://github.com/Ivanmurillojr30/DEBER-_INTERFAZ/assets/168851753/4dc18dcf-295c-4fb8-8e5d-8eab8d601f06)
 
 ## Textfield
 En el diseño del proyecto se ha implementado un TextField de manera fiel al diseño establecido. Este componente ha sido posicionado vertical y horizontalmente dentro del AnchorPane según las especificaciones requeridas. Posteriormente, se ha integrado al AnchorPane para su visualización en la interfaz de usuario. Esta cuidadosa configuración asegura que el TextField esté correctamente ubicado dentro del diseño, garantizando una experiencia de usuario coherente y fácil de usar. La atención meticulosa a los detalles en la disposición de los elementos fortalece la calidad y la estética general de la interfaz, brindando una experiencia de usuario satisfactoria y profesional.
